@@ -1,4 +1,5 @@
-create search for User on Github
+create a User Search Engine on Github 
+https://zszywka.github.io/searchForUserOnGithub/
 -----------------------------------------------------------------------------------------------------------------------------
 You should:
 1. create package.json (write in the console):
@@ -10,3 +11,5 @@ You should:
 -> npm install --save babel-cli babel-preset-es2015 babel-preset-react
 4. run the script.js builds on the build.js (write in the console):
 -> npm run build
+
+* I use: ES6, ReacJS, Babel
