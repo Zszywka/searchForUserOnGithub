@@ -11,4 +11,5 @@ You should:
 -> npm install --save babel-cli babel-preset-es2015 babel-preset-react
 4. run the script.js builds on the build.js (write in the console):
 -> npm run build
--------------------------------------------------------------------------------------------------------------------------------use: ES6, ReacJS, Babel
+
+* I use: ES6, ReacJS, Babel
