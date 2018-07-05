@@ -68,6 +68,7 @@ class User extends React.Component {
 }
 
 // Connect the main component of the app to the element with the root id:
+// always at the end of the code
 ReactDOM.render (
   <App />,
   document.getElementById('root')
