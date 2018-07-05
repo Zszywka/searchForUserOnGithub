@@ -1,4 +1,4 @@
-create search for User on Github
+create a User Search Engine on Github 
 https://zszywka.github.io/searchForUserOnGithub/
 -----------------------------------------------------------------------------------------------------------------------------
 You should:
