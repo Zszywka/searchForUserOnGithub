@@ -1,4 +1,5 @@
 create search for User on Github
+https://zszywka.github.io/searchForUserOnGithub/
 -----------------------------------------------------------------------------------------------------------------------------
 You should:
 1. create package.json (write in the console):
